@@ -23,7 +23,7 @@ console.log(randomColor);
 // }
 
 
-Solution for the random color checkerboard
+//Solution for the random color checkerboard
 for(var i = 0; i < 81 ; i ++){
   square  = document.createElement('div');
   square.style.width = "11.1%";
